@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Qasem 👋
 
-<!--
-**qasemdam/qasemdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android Developer | Laravel Backend Developer | IT Student
 
-Here are some ideas to get you started:
+I'm an IT student passionate about software development and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly work with **Java, Android Studio, PHP, Laravel, MySQL, HTML, CSS, and JavaScript**.
+
+### 💻 Tech Stack
+
+- Java
+- Android Studio
+- PHP
+- Laravel
+- MySQL
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+
+### 🚀 Featured Projects
+
+- 📱 Android Applications
+- 🌐 PHP & Laravel Web Applications
+- 🎓 University Projects
+- 🤖 AI & Agent-based Projects
+
+### 🌱 Currently Learning
+
+- Laravel & REST APIs
+- React
+- AI Agents
+- LangChain & LangGraph
+
+### 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/qasem-dam-3a4490270/]
+- Upwork: [https://www.upwork.com/freelancers/~015d000a7e41376968?mp_source=share]
