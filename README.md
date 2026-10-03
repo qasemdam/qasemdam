@@ -33,5 +33,5 @@ I mainly work with **Java, Android Studio, PHP, Laravel, MySQL, HTML, CSS, and J
 
 ### 📫 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/qasem-dam-3a4490270/]
+- LinkedIn: [https://www.linkedin.com/in/qasem-dam/]
 - Upwork: [https://www.upwork.com/freelancers/~015d000a7e41376968?mp_source=share]
