@@ -1,16 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=40C4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Qasem+AL-Dam;Android+Developer+%F0%9F%93%B1;Laravel+Backend+Developer+%E2%9A%99%EF%B8%8F;Building+Mobile+%26+Web+Applications+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=40C4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Qasem+AL-Dam;Android+Developer+%F0%9F%93%B1;Laravel+Backend+Developer+%E2%9A%99%EF%B8%8F;Building+Mobile+%26+Web+Applications+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=qasemdam&label=PROFILE+VIEWS&color=40C4FF&style=flat-square" alt="Profile Views">
+<p>
+  <img src="https://img.shields.io/badge/EXPERIENCE-STUDENT%20DEVELOPER-40C4FF?style=flat-square" alt="Student Developer">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-20C55A?style=flat-square" alt="Open to Work">
+</p>
 
-<img src="https://img.shields.io/badge/EXPERIENCE-STUDENT%20DEVELOPER-40C4FF?style=flat-square" alt="Student Developer">
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-20C55A?style=flat-square" alt="Open to Work">
-
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/qasem-dam/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -57,112 +56,21 @@ class Developer {
 }
 ```
 
-Android & Backend Developer with a strong foundation in Java, PHP, Laravel, and MySQL. Building practical mobile and web applications, working with REST APIs and databases, and continuously improving my development skills.
-
-> 💡 **Fun Fact:** I enjoy turning ideas into working applications and learning something new with every project.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### 📱 Android Development
-
-**Java**  
-**Android Studio**  
-**RecyclerView**  
-**ViewBinding**
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ Backend & APIs
-
-**PHP**  
-**Laravel**  
-**REST APIs**  
-**MySQL**  
-**Postman**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Web Development
-
-**HTML**  
-**CSS**  
-**Bootstrap**  
-**JavaScript**
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 ## 🎨 Development Workflow
 
-<table align="center">
-<tr>
+```mermaid
+flowchart LR
+    A[Requirements] --> B[Design]
+    B --> C[Development]
+    C --> D[API Integration]
+    D --> E[Testing]
+    E --> F[Git / GitHub]
+    F --> G[Deployment 🚀]
+```
 
-<td align="center">
-📋<br>
-<b>Requirements</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🎨<br>
-<b>Design</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-💻<br>
-<b>Development</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🔗<br>
-<b>API Integration</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🧪<br>
-<b>Testing</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🐙<br>
-<b>Git / GitHub</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🚀<br>
-<b>Deployment</b>
-</td>
-
-</tr>
-</table>
-
----
+--- 
 
 ## 🚀 Featured Projects
 
