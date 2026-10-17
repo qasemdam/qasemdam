@@ -38,13 +38,13 @@
 
 ## 🚀 About Me
 
-
 ```dart
 class Developer {
   final String name = 'Qasem AL-Dam';
   final String role = 'IT Student & Developer';
   final String location = 'Palestine';
   final List<String> languages = ['Arabic (Native)', 'English'];
+
   final List<String> coreFocus = [
     'Android Development',
     'Backend Development',
@@ -56,51 +56,114 @@ class Developer {
   bool isPassionateAboutDevelopment() => true;
 }
 ```
+
 Android & Backend Developer with a strong foundation in Java, PHP, Laravel, and MySQL. Building practical mobile and web applications, working with REST APIs and databases, and continuously improving my development skills.
 
-💡 Fun Fact: I enjoy turning ideas into working applications and learning something new with every project.
+> 💡 **Fun Fact:** I enjoy turning ideas into working applications and learning something new with every project.
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<table align="center">
+<tr>
 
-### 📱 Android Native Development
+<td align="center" width="33%">
 
-Java • Android Studio • RecyclerView • ViewBinding
+### 📱 Android Development
 
-<br>
+**Java**  
+**Android Studio**  
+**RecyclerView**  
+**ViewBinding**
 
-### ⚙️ Backend & API Development
+</td>
 
-PHP • Laravel • REST APIs • MySQL • Postman
+<td align="center" width="33%">
 
-<br>
+### ⚙️ Backend & APIs
+
+**PHP**  
+**Laravel**  
+**REST APIs**  
+**MySQL**  
+**Postman**
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🌐 Web Development
 
-HTML • CSS • Bootstrap • JavaScript
+**HTML**  
+**CSS**  
+**Bootstrap**  
+**JavaScript**
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🎨 Development Workflow
 
-```text
-Requirements
-      ↓
-Design
-      ↓
-Development
-      ↓
-API Integration
-      ↓
-Testing
-      ↓
-Git / GitHub
-      ↓
-Deployment 🚀
-```
+<table align="center">
+<tr>
+
+<td align="center">
+📋<br>
+<b>Requirements</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🎨<br>
+<b>Design</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+💻<br>
+<b>Development</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🔗<br>
+<b>API Integration</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🧪<br>
+<b>Testing</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🐙<br>
+<b>Git / GitHub</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🚀<br>
+<b>Deployment</b>
+</td>
+
+</tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -109,7 +172,7 @@ Deployment 🚀
 
 Android shopping application built with Java, designed for browsing products, searching by category, viewing product details, and managing products.
 
-<img src="images/marvel-gaza.png" width="900">
+<img src="images/marvel-gaza-compressed.jpg" width="900">
 
 **Tech:** Java • Android Studio • RecyclerView • View Binding
 
@@ -137,7 +200,7 @@ Career readiness and skill-matching platform designed to help students and gradu
 
 Web-based task management system for creating, updating, deleting, and tracking tasks, with user and admin management.
 
-<img src="images/php-task-manager.png" width="900">
+<img src="images/php-task-manager-compressed.jpg" width="900">
 
 **Tech:** PHP • MySQL • HTML • CSS • Bootstrap
 
