@@ -72,51 +72,66 @@ flowchart LR
 
 --- 
 
-## 🚀 Featured Projects
+### 🛒 Marvel Gaza
 
 <div align="center">
 
-### 🛒 Marvel Gaza
+Android shopping application built with Java for browsing products, exploring categories, viewing product details, and managing products.
 
-Android shopping application built with Java, designed for browsing products, searching by category, viewing product details, and managing products.
+<img src="marvel-gaza.png" width="900">
 
-<img src="images/marvel-gaza-compressed.jpg" width="900">
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/RecyclerView-4285F4?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/ViewBinding-40C4FF?style=flat-square">
+</p>
 
-**Tech:** Java • Android Studio • RecyclerView • View Binding
+</div>
 
-<br>
+- 📱 Native Android shopping application built with Java and Android Studio.
+- 🛍️ Browse products, categories, and detailed product information.
+- 🔎 Search and explore products through a simple mobile interface.
+- 🧩 Uses RecyclerView and ViewBinding for a clean and responsive UI.
+- 🔗 Integrates with backend services and REST APIs for application data.
+
+<div align="center">
 
 <a href="https://github.com/qasemdam/MarvelGaza">
-<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20VIEW%20CODE%20%20%20%20%20%20%20-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</div>
 
 ---
 
 ### 🎯 SkillSpan
 
-Career readiness and skill-matching platform designed to help students and graduates discover their skills, identify skill gaps, and explore career opportunities.
+<div align="center">
 
-<img src="images/skillspan-home.jpeg" width="900">
+Career readiness and skill-matching platform designed to help students and graduates identify their skills, discover skill gaps, and explore suitable career opportunities.
 
-**Tech:** Laravel • PHP • MySQL • REST API
+<img src="skillspan-home.jpeg" width="900">
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-40C4FF?style=flat-square">
+</p>
+
+</div>
+
+- 🎯 Helps students and graduates understand their career readiness.
+- 🧠 Provides skill matching and identifies individual skill gaps.
+- 📊 Uses readiness indicators to support career-related decisions.
+- 🔗 Built with Laravel and REST APIs for backend services.
+- 🗄️ Uses MySQL for structured data and relational database management.
+- 👥 Developed as a team project focused on real-world career challenges.
+
+<div align="center">
 
 🔒 **Private Team Project**
-
----
-
-### 📝 PHP Task Manager
-
-Web-based task management system for creating, updating, deleting, and tracking tasks, with user and admin management.
-
-<img src="images/php-task-manager-compressed.jpg" width="900">
-
-**Tech:** PHP • MySQL • HTML • CSS • Bootstrap
-
-<br>
-
-<a href="https://github.com/qasemdam/Simple-Task-Management-System">
-<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 </div>
 
