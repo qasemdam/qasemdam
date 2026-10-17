@@ -72,13 +72,15 @@ flowchart LR
 
 --- 
 
+## 🚀 Featured Projects
+
 ### 🛒 Marvel Gaza
 
 <div align="center">
 
 Android shopping application built with Java for browsing products, exploring categories, viewing product details, and managing products.
 
-<img src="marvel-gaza.png" width="900">
+<img src="images/marvel-gaza-compressed.jpg" width="900">
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -98,7 +100,7 @@ Android shopping application built with Java for browsing products, exploring ca
 <div align="center">
 
 <a href="https://github.com/qasemdam/MarvelGaza">
-<img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20VIEW%20CODE%20%20%20%20%20%20%20-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -111,7 +113,7 @@ Android shopping application built with Java for browsing products, exploring ca
 
 Career readiness and skill-matching platform designed to help students and graduates identify their skills, discover skill gaps, and explore suitable career opportunities.
 
-<img src="skillspan-home.jpeg" width="900">
+<img src="images/skillspan-home.jpeg" width="900">
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
@@ -132,6 +134,41 @@ Career readiness and skill-matching platform designed to help students and gradu
 <div align="center">
 
 🔒 **Private Team Project**
+
+</div>
+
+---
+
+### 📝 PHP Task Manager
+
+<div align="center">
+
+Web-based task management system for creating, updating, deleting, and tracking tasks, with user and admin management.
+
+<img src="images/php-task-manager-compressed.jpg" width="900">
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+</p>
+
+</div>
+
+- 👤 User and admin management with role-based access.
+- 📝 Create, update, delete, and track tasks efficiently.
+- 🔐 Secure authentication and registration system.
+- 📊 Separate dashboards for users and administrators.
+- 🎨 Responsive interface built with HTML, CSS, and Bootstrap.
+- 🗄️ MySQL database for users, tasks, and application data.
+
+<div align="center">
+
+<a href="https://github.com/qasemdam/Simple-Task-Management-System">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
